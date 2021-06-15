@@ -1,0 +1,9 @@
+1、
+
+将D3DXCompileShaderFromFile的第六个参数改为D3DXSHADER_ENABLE_BACKWARDS_COMPATIBILITY即可
+不要再使用D3DXSHADER_DEBUG了，那个值不能通过编译
+2、全局变量是extern也是常量，在shader里面不能修改，但可以从宿主程序里改。
+以前的编译器没有强制这一点，现在新的强化了这一要求。
+
+把extern
+改成static运行成功
