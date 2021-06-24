@@ -1,0 +1,6 @@
+# This is an example of a comment.
+age       18
+name  "Jackqueline"
+gender                    "female"
+married                   true
+temperature            12.3
