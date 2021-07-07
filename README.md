@@ -7,3 +7,4 @@ DirectX 学习笔记和实例代码以及电子书
 # <a href="http://www.cppblog.com/lovedday/category/4152.html">DirectX 9 Program学习</a>
 # <a href="http://www.waitingfy.com/archives/238">DirectX 9.0 C++ 教程 Texture 纹理映射</a>
 # <a href="https://www.jianshu.com/p/e9d1857ab2a7">极好的游戏编程资源</a>
+# <a href="http://www.voidcn.com/article/p-xdbjfaag-bat.html">高级纹理映射技术</a>
